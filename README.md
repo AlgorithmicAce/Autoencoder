@@ -7,7 +7,6 @@
 ### Autoencoder has many use cases:
 1) Anomaly Detector
 2) Data Denoising
-3) Data Compression
-4) Image Colorization  
+3) Data Compression 
 
 and much more.
